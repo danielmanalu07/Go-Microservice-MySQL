@@ -1,0 +1,5 @@
+go mod init service/table
+github.com/gofiber/fiber/v2
+-u gorm.io/gorm
+gorm.io/driver/mysql
+github.com/go-playground/validator/v10
